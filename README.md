@@ -1,7 +1,3 @@
-Sure, here is a text about an email login tool written in Java:
-
----
-
 **Email Login Tool in Java**
 
 The Email Login Tool is a robust and secure application designed to facilitate user authentication and email access. Written in Java, this tool leverages the powerful libraries and features of the Java programming language to ensure a seamless and efficient login process.
